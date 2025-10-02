@@ -21,22 +21,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
 <table>
     <tr>
         <td>
-            <a href="https://qfeeds.com" target="_blank">Q-Feeds Threat Intelligence</a>
-        </td>
-        <td>
-            Q-Feeds is a cybersecurity company that brings together data from OSINT, proprietary research, and commercial threat intelligence feeds to offer a well-rounded and highly actionable solution. Their Threat Intelligence Portal (TIP) makes it easy for organizations to access and manage this data in real-time. By integrating with firewalls, SIEMs, and other security platforms, Q-Feeds helps businesses proactively block connections to known malicious IPs, domains, and URLs—before threats can do harm. They also have a community version available on request.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://feed.ellio.tech" target="_blank">ELLIO: IP Feed (community free version)</a>
-        </td>
-        <td>
-            A threat list of known malicious IP addresses anticipated to pose potential threats to your network in the near future, known benign scanners, and IP addresses of actors with unknown intent. It is provided with a 24-hour delay for personal, non-commercial use but still provides exceptional protection compared to other open IP threat lists/feeds..
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://www.abuseipdb.com/" target="_blank">AbuseIPDB</a>
         </td>
         <td>
@@ -201,6 +185,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             Free intelligence source for current and historical DNS information, WHOIS information, finding other websites associated with certain IPs, subdomain knowledge and technologies. There is a <a href="https://securitytrails.com/">IP and domain intelligence API available</a> as well. 
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://feed.ellio.tech" target="_blank">ELLIO: IP Feed (community free version)</a>
+        </td>
+        <td>
+            A threat list of known malicious IP addresses anticipated to pose potential threats to your network in the near future, known benign scanners, and IP addresses of actors with unknown intent. It is provided with a 24-hour delay for personal, non-commercial use but still provides exceptional protection compared to other open IP threat lists/feeds.
         </td>
     </tr>
     <tr>
@@ -494,6 +486,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
         </td>
         <td>
             PickupSTIX is a feed of free, open-source, and non-commercialized cyber threat intelligence. Currently, PickupSTIX uses three public feeds and distributes about 100 new pieces of intelligence each day. PickupSTIX translates the various feeds into STIX, which can communicate with any TAXII server. The data is free to use and is a great way to begin using cyber threat intelligence.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://qfeeds.com" target="_blank">Q-Feeds Threat Intelligence</a>
+        </td>
+        <td>
+            Q-Feeds is a cybersecurity company that brings together data from OSINT, proprietary research, and commercial threat intelligence feeds to offer a well-rounded and highly actionable solution. Their Threat Intelligence Portal (TIP) makes it easy for organizations to access and manage this data in real-time. By integrating with firewalls, SIEMs, and other security platforms, Q-Feeds helps businesses proactively block connections to known malicious IPs, domains, and URLs—before threats can do harm. They also have a community version available on request.
         </td>
     </tr>
     <tr>
