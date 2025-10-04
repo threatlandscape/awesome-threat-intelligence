@@ -420,13 +420,6 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
         </td>
     </tr>
     <tr>
-        <td><a href="https://blog.netlab.360.com/tag/english/">Netlab OpenData Project</a>
-      </td>
-      <td>
-            The Netlab OpenData project was presented to the public first at ISC' 2016 on August 16, 2016. We currently provide multiple data feeds, including DGA, EK, MalCon, Mirai C2, Mirai-Scanner, Hajime-Scanner and DRDoS Reflector.
-        </td>
-    </tr>
-    <tr>
         <td>
             <a href="http://www.nothink.org">NoThink!</a>
         </td>
