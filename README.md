@@ -269,6 +269,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="http://griffinguard.io/" target="_blank">GriffinGuard</a>
+        </td>
+        <td>
+            GriffinGuard is a cybersecurity platform delivering real-time threat intelligence by continuously analyzing global internet traffic and exploitation patterns. It provides free data search, and some free IP blocklists.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://honeydb.io/" target="_blank">HoneyDB</a>
         </td> 
         <td>
