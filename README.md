@@ -650,6 +650,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://threatlandscape.io" target="_blank">threatlandscape.io</a>
+        </td>
+        <td>
+            An automated threat intelligence platform that extracts, structures, and connects global OSINT into STIX 2.1 graphs. It includes dashboards, digests, MITRE ATT&CK mapping, CVE/IOC tracking, reports, and REST/GraphQL API access for feed integration with TIP, SIEM, and SOAR.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.threatminer.org/" target="_blank">ThreatMiner</a>
         </td>
         <td>
