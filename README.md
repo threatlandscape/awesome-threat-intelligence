@@ -650,6 +650,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://threatlandscape.io/" target="_blank">Threat Landscape</a>
+        </td>
+        <td>
+            Extracts, structures, and connects global OSINT and darknet signals into intelligence so analysts act faster.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.threatminer.org/" target="_blank">ThreatMiner</a>
         </td>
         <td>
