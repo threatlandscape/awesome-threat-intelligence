@@ -1669,6 +1669,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://stix-viewer.threatlandscape.io/" target="_blank">STIX VIEWER</a>
+        </td>
+        <td>
+            Free online STIX 2.1 viewer / visualizer.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://test.taxiistand.com/" target="_blank">TAXII Test Server</a>
         </td>
         <td>
